@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Tor Project/foundation/How does a DNS works.md",
-            "mode": "preview"
+            "file": "The Odin Project/foundation/list of reading.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tor Project/foundation/How does a DNS works.md",
+                "file": "The Odin Project/foundation/list of reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "9b7a158d4b5eea41",
   "lastOpenFiles": [
+    "The Tor Project/foundation/Understanding HTTP.md",
+    "markdown cheatsheet.md",
+    "The Tor Project/foundation/Untitled.md",
     "The Tor Project/foundation/How does a DNS works.md",
     "The Tor Project/foundation/diff between webpage, webserver and search engine.md",
     "The Tor Project/foundation/How the internet works.md",
-    "The Tor Project/foundation/Untitled.md",
     "The Tor Project/diff between webpage, webserver and search engine.md",
     "internet.md",
-    "markdown cheatsheet.md",
     "The Tor Project/How the internet works.md",
-    "Untitled.md",
-    "golang/Recording 20210804153424.webm"
+    "Untitled.md"
   ]
 }
