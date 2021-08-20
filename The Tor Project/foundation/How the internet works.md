@@ -10,11 +10,4 @@
 
 
 
-
-
-
-
-
-
-
-Link to the article [[https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work]]
+[Link to the article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)

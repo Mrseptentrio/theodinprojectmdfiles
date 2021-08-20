@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6113ede880858fd1",
+        "id": "9b7a158d4b5eea41",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How the internet works.md",
-            "mode": "source"
+            "file": "The Tor Project/foundation/How does a DNS works.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How the internet works.md",
+                "file": "The Tor Project/foundation/How does a DNS works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,13 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6113ede880858fd1",
+  "active": "9b7a158d4b5eea41",
   "lastOpenFiles": [
+    "The Tor Project/foundation/How does a DNS works.md",
+    "The Tor Project/foundation/diff between webpage, webserver and search engine.md",
+    "The Tor Project/foundation/How the internet works.md",
+    "The Tor Project/foundation/Untitled.md",
+    "The Tor Project/diff between webpage, webserver and search engine.md",
+    "internet.md",
+    "markdown cheatsheet.md",
+    "The Tor Project/How the internet works.md",
     "Untitled.md",
-    "golang/Recording 20210804153424.webm",
-    "Recording 20210804153424.webm",
-    "ethical hacking/week 1.md",
-    "purpose.md",
-    "Ethical Hacking.md"
+    "golang/Recording 20210804153424.webm"
   ]
 }

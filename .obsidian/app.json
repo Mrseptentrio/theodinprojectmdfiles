@@ -2,5 +2,6 @@
   "obsidianCss": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
