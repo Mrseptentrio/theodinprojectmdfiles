@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Odin Project/foundation/what is HTML.md",
+            "file": "The Odin Project/foundation/html, css, js references/JavaScript reference.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Odin Project/foundation/what is HTML.md",
+                "file": "The Odin Project/foundation/html, css, js references/JavaScript reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "9b7a158d4b5eea41",
   "lastOpenFiles": [
+    "The Odin Project/foundation/html, css, js references/Untitled.md",
     "The Odin Project/foundation/Untitled.md",
     "The Odin Project/foundation/list of reading.md",
     "The Tor Project/foundation/Understanding HTTP.md",
@@ -131,7 +132,6 @@
     "The Tor Project/foundation/How does a DNS works.md",
     "The Tor Project/foundation/diff between webpage, webserver and search engine.md",
     "The Tor Project/foundation/How the internet works.md",
-    "The Tor Project/diff between webpage, webserver and search engine.md",
-    "internet.md"
+    "The Tor Project/diff between webpage, webserver and search engine.md"
   ]
 }
