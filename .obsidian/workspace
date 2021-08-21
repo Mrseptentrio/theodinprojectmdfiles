@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Odin Project/foundation/list of reading.md",
-            "mode": "source"
+            "file": "The Odin Project/foundation/what is HTML.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Odin Project/foundation/list of reading.md",
+                "file": "The Odin Project/foundation/what is HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "id": "5a7fd8915ce2d9fb",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -105,6 +105,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dddf85294e57d516",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -115,6 +123,8 @@
   },
   "active": "9b7a158d4b5eea41",
   "lastOpenFiles": [
+    "The Odin Project/foundation/Untitled.md",
+    "The Odin Project/foundation/list of reading.md",
     "The Tor Project/foundation/Understanding HTTP.md",
     "markdown cheatsheet.md",
     "The Tor Project/foundation/Untitled.md",
@@ -122,8 +132,6 @@
     "The Tor Project/foundation/diff between webpage, webserver and search engine.md",
     "The Tor Project/foundation/How the internet works.md",
     "The Tor Project/diff between webpage, webserver and search engine.md",
-    "internet.md",
-    "The Tor Project/How the internet works.md",
-    "Untitled.md"
+    "internet.md"
   ]
 }
